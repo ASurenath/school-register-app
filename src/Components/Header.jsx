@@ -15,9 +15,9 @@ function Header() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
-                        <Nav.Link><Link to={'/'}>Home</Link></Nav.Link>
-                        <Nav.Link><Link to={'/register'}>Register</Link></Nav.Link>
-                        <Nav.Link><Link to={'/students'}>Students</Link></Nav.Link>
+                        <Nav.Item className='px-3 py-1'><Link to={'/'}>Home</Link></Nav.Item>
+                        <Nav.Item className='px-3 py-1'><Link to={'/register'}>Register</Link></Nav.Item>
+                        <Nav.Item className='px-3 py-1'><Link to={'/students'}>Students</Link></Nav.Item>
                     </Nav>
                     </Navbar.Collapse>
                 </Container>
