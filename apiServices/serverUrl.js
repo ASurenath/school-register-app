@@ -1,0 +1,1 @@
+export const SERVER_URL="https://school-register-server-knve.onrender.com"
