@@ -3,6 +3,9 @@ body {
   margin: 0;
   overflow-x: hidden;
 }
+.table{
+  overflow-x: scroll;
+}
 
 body a {
   text-decoration: none;
