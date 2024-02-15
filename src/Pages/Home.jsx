@@ -12,7 +12,7 @@ function Home() {
                 <img src={image} className="img-fluid" alt="Registration image" />
                 </Col>
 
-                <Col lg={5} className='d-flex flex-column align-items-center justify-content-center'>
+                <Col lg={5} className='d-flex flex-column align-items-center justify-content-center pb-3'>
                 <h1><i className="fa-solid fa-graduation-cap"></i>Education</h1>
 
                     <p className='text-center'>Lorem ipsum dolor, sit amet conse ctetur adipis icing elit. Nemo quos dicta labore ducimus dolorum porro explicabo repssumenda saepe, molestiae recusandae doloremque. Itaque.</p>
