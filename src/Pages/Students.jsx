@@ -49,7 +49,7 @@ function Students() {
                             <td>{index+1}</td>
                             <td>{i.firstName}</td>
                             <td>{i.lastName}</td>
-                            <td>{i.adress}</td>
+                            <td>{i.address}</td>
                             <td>{i.email}</td>
                             <td>{i.mobile}</td>
                             <td>{i.dob}</td>
